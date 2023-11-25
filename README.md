@@ -11,7 +11,7 @@ Buku ini dirancang bukan hanya sebagai sumber belajar, tetapi sebagai komponen e
 
 ## Publikasi
 
-* Google Play Books: 
+* Google Play Books: https://play.google.com/store/books/details?id=S2HlEAAAQBAJ
 * Lulu: https://www.lulu.com/shop/agus-kurniawan/belajar-praktis-pemrograman-web-dengan-php/ebook/product-p66k4gp.html
 
 Untuk pengguna iOS, silakan gunakan Google Play Books. Kemudian dapat membeli buku ini melalui Google Play Books. Alternatif lain, pembelian buku dapat dilakukan melalui website Google Play Books.
